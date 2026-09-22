@@ -14,7 +14,7 @@ To design and implement a java program that helps an electric vehicle (EV) find 
 9. Stop the program
     
 ## Program:
-```PY
+```java
 /*
 Program to find the Fastest Route to a Charging Station using Dijkstra’s Algorithm
 Developed by: Mohamed Abrar M
